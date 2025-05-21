@@ -22,3 +22,6 @@ DOM manipulation
 Handling user events
 Using localStorage to save data
 Creating a simple and user-friendly UI
+
+
+![todo](https://github.com/user-attachments/assets/16acfdfd-dbf1-4e74-b17b-95606fc7ca21)
